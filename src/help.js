@@ -67,8 +67,6 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}moddroid* ❮name app❯
 ❁❧ *${p}pokemon*
 ❁❧ *${p}ip* ❮ip❯
-❁❧ *${p}ddd* ❮ddd❯
-❁❧ *${p}cep* ❮cep❯
 ❁❧ *${p}signome* ❮name❯
 ❁❧ *${p}gimage* ❮name❯
 
@@ -100,15 +98,31 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}ytmp3* ❮yt url❯
 
 
+✧･ﾟ: ✧･ﾟ:⚙️ Gerador ⚙️:･ﾟ✧:･ﾟ✧
+｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
+
+❁❧ *${p}gpessoa*
+❁❧ *${p}gendereco*
+❁❧ *${p}gcnh*
+❁❧ *${p}geleitortitulo*
+❁❧ *${p}gbanco*
+❁❧ *${p}gcarro*
+❁❧ *${p}gpass* ❮letter qnt❯
+❁❧ *${p}cpf*
+❁❧ *${p}ddd* ❮ddd❯
+❁❧ *${p}cep* ❮cep❯
+❁❧ *${p}gerarcc*
+❁❧ *${p}gprocesso*
+❁❧ *${p}gerarcc*
+❁❧ *${p}gcarro*
+
+
 ▀▄▀▄▀▄ ༻🧾 𝚃𝚎𝚡𝚝𝚘 🧾༺ ▄▀▄▀▄▀
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
-❁❧ *${p}gerarcc*
 ❁❧ *${p}phlogo*
 ❁❧ *${p}attp* ❮txt❯
-❁❧ *${p}gpass* ❮letter qnt❯
 ❁❧ *${p}fakeidentity*
-❁❧ *${p}cpf*
 ❁❧ *${p}txtcmd*
 ❁❧ *${p}installbot*
 ❁❧ *${p}traduz* ❮la❯ ❮txt❯
