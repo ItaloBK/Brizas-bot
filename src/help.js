@@ -78,6 +78,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ｡☆✼★━━━━━━ - ━━━━━━★✼☆｡
 
 ❁❧ *${p}packmega18*
+❁❧ *${p}checkporn* ❮reply img❯
 ❁❧ *${p}xvsearch* ❮name❯
 ❁❧ *${p}nhentai* ❮code❯
 ❁❧ *${p}randomhentai*
@@ -227,6 +228,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}welcome* ❮1 or 0❯
 ❁❧ *${p}simih* ❮1 or 0❯
 ❁❧ *${p}antilink* ❮1 or 0❯
+❁❧ *${p}antiporn* ❮1 or 0❯
 ❁❧ *${p}antifake* ❮1 or 0❯
 ❁❧ *${p}autoreply* ❮1 or 0❯
 ❁❧ *${p}antilinkhard* ❮1 or 0❯
