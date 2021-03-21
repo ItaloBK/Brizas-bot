@@ -13,7 +13,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ║ _*🌐https://suaurl.com/f31687 🌐*_
 ║
 ║ _🪀𝐆𝐫𝐮𝐩𝐨 𝐝𝐨 𝐰𝐩𝐩:_
-║ _*🌐https://suaurl.com/brizasgp 🌐*_
+║ _*🌐https://suaurl.com/07db01 🌐*_
 ║
 ║ _📹 𝐘𝐨𝐮𝐭𝐮𝐛𝐞:_
 ║ _*🌐https://suaurl.com/c12fe7 🌐*_
@@ -95,6 +95,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}lyrics*
 ❁❧ *${p}ptlyrics*
 ❁❧ *${p}play* ❮music name❯
+❁❧ *${p}playv2* ❮music name❯
 ❁❧ *${p}tomp3* ❮caption, reply video❯
 ❁❧ *${p}ytsearch* ❮name❯
 ❁❧ *${p}ytmp4* ❮yt url❯
@@ -178,10 +179,14 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 
 ❁❧ *${p}ship* ❮num1❯ ❮num2❯
 ❁❧ *${p}corno* ❮num1❯
+❁❧ *${p}nazista* ❮num1❯
+❁❧ *${p}comunista* ❮num1❯
 ❁❧ *${p}dado*
 ❁❧ *${p}ranklindo*
 ❁❧ *${p}rankfeio*
 ❁❧ *${p}rankgado*
+❁❧ *${p}rankcomu*
+❁❧ *${p}ranknazi*
 ❁❧ *${p}rankqi*
 ❁❧ *${p}rankfofo*
 ❁❧ *${p}rankotaku*
