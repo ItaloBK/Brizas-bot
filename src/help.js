@@ -229,6 +229,8 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}antilink* ❮1 or 0❯
 ❁❧ *${p}antiporn* ❮1 or 0❯
 ❁❧ *${p}antifake* ❮1 or 0❯
+❁❧ *${p}onmodgrupo*
+❁❧ *${p}offmodgrupo*
 ❁❧ *${p}autoreply* ❮1 or 0❯
 ❁❧ *${p}antilinkhard* ❮1 or 0❯
 ❁❧ *${p}tagall* ❮num❯
