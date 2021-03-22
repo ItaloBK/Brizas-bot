@@ -230,6 +230,13 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}demote* ❮dial num❯
 ❁❧ *${p}add* ❮num❯
 ❁❧ *${p}welcome* ❮1 or 0❯
+❁❧ *${p}antidoc* ❮1 or 0❯
+❁❧ *${p}antiloc* ❮1 or 0❯
+❁❧ *${p}antiimg* ❮1 or 0❯
+❁❧ *${p}antivideo* ❮1 or 0❯
+❁❧ *${p}antisticker* ❮1 or 0❯
+❁❧ *${p}antiaudio* ❮1 or 0❯
+❁❧ *${p}antictt* ❮1 or 0❯
 ❁❧ *${p}simih* ❮1 or 0❯
 ❁❧ *${p}antilink* ❮1 or 0❯
 ❁❧ *${p}antiporn* ❮1 or 0❯
