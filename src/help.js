@@ -26,6 +26,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}info*
 ❁❧ *${p}ping*
 ❁❧ *${p}destrava*
+❁❧ *${p}sugerir* ❮text❯
 ❁❧ *${p}terbot*
 ❁❧ *${p}botvip*
 ❁❧ *${p}blocklist*
