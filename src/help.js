@@ -1,6 +1,6 @@
 const help = (p, date, user, wame) => {
 return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖𝚊𝚝𝚎 ࿗🔥━┓
-║                                                           
+║        BOAAAA BK                                               
 ║ _*🕐 𝐃𝐚𝐭𝐚 𝐞 𝐡𝐨𝐫𝐚: ${date} 🕐*_
 ║ _*🙂 𝐔𝐬𝐮𝐚́𝐫𝐢𝐨: ${user} 🙂*_
 ║ _*🌎 𝐖𝐚𝐦𝐞: ${wame} 🌎*_                                        
