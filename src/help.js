@@ -67,7 +67,7 @@ return `┏━🔥࿗ 𝙱𝚛𝚒𝚣𝚊𝚜-𝚋𝚘𝚝 𝚞𝚕𝚝𝚒𝚖
 ❁❧ *${p}animesrc* ❮name anime❯
 ❁❧ *${p}mangasrc* ❮name anime❯
 ❁❧ *${p}playstore* ❮name app❯
-❁❧ *${p}moddroid* ❮name app❯
+❁❧ *${p}happymod* ❮name app❯
 ❁❧ *${p}pokemon*
 ❁❧ *${p}ip* ❮ip❯
 ❁❧ *${p}signome* ❮name❯
